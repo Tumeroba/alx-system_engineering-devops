@@ -7,4 +7,5 @@ ls -la display current directory with user and group ID numerically and hidden f
 mkdir /tmp/my_first_directory create my_first_directory in /tmp/ directory
 mv /tmp/betty /tmp/my_first_directory move betty file from /tmp/ to my_first_directory which is in /tmp/
 rm /tmp/my_first_directory/betty deleted betty file in my_first_directory which is in /tmp/ directory
-rmdir /tmp/my_first_directory  deleted my_first_directory directory    
+rmdir /tmp/my_first_directory  deleted my_first_directory directory   
+cd - changes working directory to previous directory  
