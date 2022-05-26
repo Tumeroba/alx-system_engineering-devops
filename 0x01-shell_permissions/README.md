@@ -8,3 +8,4 @@ chmod 754 gives owner pemission to read write and exercute group to read and exe
 chmod 751 gives owner read, write and exercute permisson and exercute permission to groups and other users
 chmod 007 gives no right to owner and group. And all permission to other users 
 chmod 753 gives this permissions -rwxr-x-wx
+chmod reference=olleh hello set the mode of hello same as olleh's
