@@ -9,3 +9,5 @@ chmod 751 gives owner read, write and exercute permisson and exercute permission
 chmod 007 gives no right to owner and group. And all permission to other users 
 chmod 753 gives this permissions -rwxr-x-wx
 chmod reference=olleh hello set the mode of hello same as olleh's
+chmod a+x ./* adds execution permission to all subdirectories of current directory, to owner group and other users
+
