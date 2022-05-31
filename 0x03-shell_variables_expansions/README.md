@@ -8,4 +8,12 @@ o. <o> Create a script that creates an alias, name:ls value:rm *
 
 4. A script that prints list of environment variables
 
-5. A script that create a new local variable  
+5. A script that create a new local variable
+
+6. Create a script that create a local variable 
+
+7. Creates a script that create new global variable 
+
+8. Writes a script that prints the results of addition of 128 to the value stored in environment value TRUEKNOWLEDGE
+
+  
