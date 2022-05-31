@@ -4,6 +4,6 @@ o. <o> Create a script that creates an alias, name:ls value:rm *
 
 2. add action to the path and make /action to be the last directory shell look into when looking into program
 
-3. 
+3. Script that count number of directory in the PATH
 
-4 A script that prints list of environment variables 
+4. A script that prints list of environment variables 
