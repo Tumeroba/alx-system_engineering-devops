@@ -6,4 +6,6 @@ o. <o> Create a script that creates an alias, name:ls value:rm *
 
 3. Script that count number of directory in the PATH
 
-4. A script that prints list of environment variables 
+4. A script that prints list of environment variables
+
+5. A script that create a new local variable  
