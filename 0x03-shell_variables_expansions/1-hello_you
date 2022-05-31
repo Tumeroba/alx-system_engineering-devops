@@ -1,1 +1,2 @@
-hello $ whoami\n
+#!/bin/bash
+echo hello & whoami 
